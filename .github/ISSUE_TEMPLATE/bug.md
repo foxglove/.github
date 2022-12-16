@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: Report broken functionality
+name: "🐞 Bug report"
+about: Report broken functionality or incorrect documentation
 labels: "bug"
 ---
 
@@ -15,6 +15,3 @@ labels: "bug"
 
 
 **Expected Behavior**
-
-
-**Actual Behavior**
