@@ -1,9 +1,9 @@
-**Public-Facing Changes**
+### Public-Facing Changes
+
 <!-- describe any changes to the public interface or APIs, or write "None" -->
 
+### Description
 
-**Description**
 <!-- describe what has changed, and motivation behind those changes -->
 
-
-<!-- link relevant GitHub issues -->
+<!-- Link relevant Github issues. Use `Fixes #1234` to auto-close the issue after merging. -->
