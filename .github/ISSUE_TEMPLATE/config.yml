@@ -5,7 +5,7 @@ contact_links:
     about: Ask our community for help
   - name: "🚀 Feature request"
     url: https://github.com/orgs/foxglove/discussions/new/choose
-    about: Search existing feature requests or share a new idea
+    about: Share a new idea
   - name: "📚 Stack Exchange"
     url: https://robotics.stackexchange.com/questions/ask
     about: Get help from the robotics community
