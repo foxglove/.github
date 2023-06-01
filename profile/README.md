@@ -8,4 +8,4 @@ Foxglove was founded to improve the development experience for robotics teams by
 
 ☁️ [**Foxglove Data Platform**](https://foxglove.dev/data-platform) – Securely store petabytes of indexed and tagged data for easy discovery and analysis.
 
-🪵 [**MCAP**](https://mcap.dev) – A modular container format and logging library for pub/sub messages with arbitrary message serialization. 
+🧢 [**MCAP**](https://mcap.dev) – A modular container format and logging library for pub/sub messages with arbitrary message serialization. 
