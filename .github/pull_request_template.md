@@ -1,6 +1,10 @@
 ### Changelog
 <!-- Write a one-sentence summary of the user-impacting change (API, UI/UX, performance, etc) that could appear in a changelog. Write "None" if there is no user-facing change -->
 
+### Docs
+
+<!-- Link to a Docs PR, tracking ticket in Linear, OR write "None" if no documentation changes are needed. -->
+
 ### Description
 
 <!-- Describe the problem, what has changed, and motivation behind those changes. Pretend you are advocating for this change and the reader is skeptical. -->
