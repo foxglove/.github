@@ -1,4 +1,4 @@
-[![Foxglove](/profile/wordmark.png)](https://foxglove.dev)
+[![Foxglove](/profile/header.png)](https://foxglove.dev)
 
 [<picture><source srcset="/profile/screenshot-dark.png" media="(prefers-color-scheme: dark)"/><img align="right" width="400" src="/profile/screenshot-light.png"></picture>](https://foxglove.dev)
 
