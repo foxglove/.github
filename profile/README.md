@@ -1,6 +1,6 @@
 [![Foxglove](/profile/wordmark.png)](https://foxglove.dev)
 
-[<picture><source srcset="/profile/screenshot-dark.webp" media="(prefers-color-scheme: dark)"/><img align="right" width="400" src="/profile/screenshot-light.webp"></picture>](https://foxglove.dev)
+[<picture><source srcset="/profile/screenshot-dark.png" media="(prefers-color-scheme: dark)"/><img align="right" width="400" src="/profile/screenshot-light.png"></picture>](https://foxglove.dev)
 
 Foxglove's mission is to increase the GDP of robotics. We build commercial and open source software to help robotics developers get to market faster and scale to millions of units.
 
