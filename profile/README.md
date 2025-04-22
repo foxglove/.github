@@ -1,4 +1,4 @@
-[![Accelerate your robotics development](/profile/header.webp)](https://foxglove.dev)
+[![Foxglove](/profile/wordmark.png)](https://foxglove.dev)
 
 [<picture><source srcset="/profile/screenshot-dark.webp" media="(prefers-color-scheme: dark)"/><img align="right" width="400" src="/profile/screenshot-light.webp"></picture>](https://foxglove.dev)
 
