@@ -3,7 +3,7 @@
 
 ### Docs
 
-<!-- Link to a PR or Linear ticket trackng documentation. Write "None" if no documentation changes are needed. -->
+<!-- Link to a PR or Linear ticket tracking documentation. Write "None" if no documentation changes are needed. -->
 
 ### Description
 
